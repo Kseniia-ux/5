@@ -1,0 +1,53 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (dequetemp.cpp.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  deque.cpp
+  dequetemp.cpp.cpp
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(10): error C2065: cout: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(10): error C2065: endl: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(11): error C2065: cin: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(12): error C2065: DequeTemp: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(12): error C2062: тип "int" не требуется
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(13): error C2065: cout: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(14): error C2065: cin: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(15): error C2065: a: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(16): error C2065: cout: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(16): error C2065: endl: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(17): error C2065: a: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(19): error C2065: cout: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(19): error C2065: endl: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(20): error C2065: cin: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(23): error C2065: cout: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(23): error C2065: a: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(24): error C2065: cin: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(25): error C2065: a: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(29): error C2065: cout: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(29): error C2065: a: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(30): error C2065: cin: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(31): error C2065: a: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(34): error C2065: cout: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(34): error C2065: endl: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(34): error C2065: a: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(35): error C3861: system: идентификатор не найден
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(38): error C2065: cout: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(38): error C2065: endl: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(39): error C2065: endl: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(40): error C2065: cin: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(45): error C2065: cout: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(45): error C2065: a: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(45): error C2065: endl: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(50): error C2065: cout: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(50): error C2065: a: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(50): error C2065: endl: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(55): error C2065: a: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(56): error C2065: cout: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(56): error C2065: endl: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(56): error C2065: a: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(61): error C2065: a: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(62): error C2065: cout: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(62): error C2065: endl: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(62): error C2065: a: необъявленный идентификатор
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\dequetemp.cpp.cpp(71): error C2065: cout: необъявленный идентификатор
+  main.cpp
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\main.cpp(2): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  Создание кода...
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\deque.cpp(44): warning C4715: Deque::operator=: значение возвращается не при всех путях выполнения
+c:\users\asus\desktop\оопсизи\5\dequetemp.cpp\dequetemp.cpp\deque.cpp(55): warning C4715: Deque::operator=: значение возвращается не при всех путях выполнения
