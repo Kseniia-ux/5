@@ -1,0 +1,8 @@
+﻿  4.cpp
+C:\Users\kseni\source\repos\4\4.cpp(44,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\kseni\source\repos\4\4.cpp(49,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\kseni\source\repos\4\4.cpp(63,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\kseni\source\repos\4\4.cpp(68,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\kseni\source\repos\4\4.cpp(69,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\kseni\source\repos\4\4.cpp(70,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  4.vcxproj -> C:\Users\kseni\source\repos\4\Debug\4.exe
